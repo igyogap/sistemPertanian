@@ -1,0 +1,154 @@
+body {
+
+    text-decoration-style: times;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.judul {
+    margin-bottom: 0px;
+    text-transform: uppercase;
+}
+
+.judul1 {
+    width: 180px;
+    height: 75px;
+    margin: 0px;
+    float: left;
+
+}
+
+.judul1 h5 {
+    margin: 0;
+    padding: 0;
+    float: left;
+    text-align: center;
+    font-size: 13.5px;
+    font-weight: bold;
+
+
+}
+
+
+
+.judul2 {
+    width: 650px;
+    height: 0px;
+    text-align: center;
+    margin: 40px 20px 0px 90px;
+    float: left;
+
+
+}
+
+.j1 {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.j2 {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.j3 {
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.judul3 {
+    height: 0px;
+    margin: 0px 0px 0px 0px;
+    float: left;
+
+}
+
+.sp {
+    margin-left: 40px;
+    font-weight: bold;
+    text-align: right;
+}
+
+tr td th {
+    font-size: 12px;
+    text-transform: uppercase;
+    text-align: center;
+    align-items: center;
+
+}
+
+.keterangan1 {
+
+    width: 900px;
+    text-align: left;
+    margin: 0px 0px 20px 100px;
+    float: left;
+
+
+
+}
+
+.keterangan2 {
+
+    text-align: left;
+    margin: 0px;
+    float: left;
+
+
+}
+
+tr .ket1 {
+    width: 90px;
+    text-align: left;
+    font-size: 12px;
+    text-transform: uppercase;
+
+}
+
+tr .ket1r {
+    width: 60px;
+    text-align: left;
+    font-size: 12px;
+    text-transform: uppercase;
+
+}
+
+tr .ket2 {
+    text-align: left;
+    width: 150px;
+    font-size: 12px;
+    text-transform: uppercase;
+
+
+}
+
+tr .ket2r {
+    text-align: left;
+    width: 110px;
+    font-size: 12px;
+    text-transform: uppercase;
+
+}
+
+tr .titik_dua {
+    width: 20px;
+    font-size: 12px;
+
+}
+
+.total-row td {
+    font-weight: bold;
+}
+
+thead tr th {
+    text-align: center;
+    vertical-align: middle;
+
+}
+
+.ttd {
+    width: 220px;
+    line-height: 0.5;
+    float: right;
+    text-align: center;
+}

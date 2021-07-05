@@ -1,0 +1,13 @@
+body {
+    margin: auto;
+}
+
+.judul {
+    text-align: center;
+    padding: 30px;
+    margin-bottom: 20px;
+}
+
+.tombol {
+    text-align: center;
+}
